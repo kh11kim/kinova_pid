@@ -1,0 +1,8 @@
+prefix=/home/pandacom/ws/icra2023_dualarm/src/kinova_pid/build/devel
+
+Name: kinova_pid
+Description: Description of kinova_pid
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

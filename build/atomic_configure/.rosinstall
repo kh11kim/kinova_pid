@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pandacom/ws/icra2023_dualarm/src/kinova_pid/build/devel/setup.sh

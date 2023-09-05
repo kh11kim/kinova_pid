@@ -1,0 +1,5 @@
+# ninja log v5
+1	1258	1693844345458872784	CMakeFiles/gen3_node.dir/src/main.cpp.o	99650758ad065e92
+22791	23040	1693854389035813051	gen3_node	ac3a8f815f1945d
+0	18	0	clean	a31eedcededa8236
+3	22791	1693854388787794391	CMakeFiles/gen3_node.dir/src/gen3.cpp.o	e5feb8f61f374f05
